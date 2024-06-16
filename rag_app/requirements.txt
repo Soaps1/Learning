@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+langchain
+openai
+beautifulsoup4
+hnswlib
+chromadb
